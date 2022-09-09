@@ -1,0 +1,9 @@
+.lesson {
+    width: 200px;
+    height: 200px;
+}
+
+#section-1 {
+    background-color: purple;
+    color: yellow;
+}
