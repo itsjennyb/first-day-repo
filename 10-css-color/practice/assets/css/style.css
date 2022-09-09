@@ -3,7 +3,21 @@
     height: 200px;
 }
 
+.container {
+    background-color: black;
+    color: white;
+}
+
+.section-blue {
+    background-color: blue;
+    color: orange;
+}
+
 #section-1 {
     background-color: purple;
+    color: yellow;
+}
+
+#section-six {
     color: yellow;
 }
